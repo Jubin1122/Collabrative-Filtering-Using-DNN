@@ -1,0 +1,31 @@
+CustomerID,ci_industry,RelationshipManager,group_lv_title,customer_lv_title,no_of_months_inactive_ly,total_active_period,exp_total_profit
+cust_139,None,RM_6,comp_2819,comp_264,12,56,188.11
+cust_493,None,RM_32,comp_3548,comp_7218,0,56,-351130.03
+cust_567,Other General Government Support,RM_32,comp_6592,comp_6592,12,56,0
+cust_701,None,RM_1,comp_3539,comp_3539,12,56,0
+cust_838,None,RM_46,comp_2332,comp_2332,12,56,6355.72
+cust_970,"Automotive Dealers, not elsewhere classified",RM_37,comp_3977,comp_3977,0,56,6243.007
+cust_989,None,RM_9,comp_4966,comp_4966,12,56,9231.062
+cust_1523,New Car Dealers,RM_20,comp_282,comp_282,0,56,894183.461
+cust_2183,None,RM_2,comp_4301,comp_5181,0,56,65302.486
+cust_2416,Miscellaneous Apparel and Accessory Stores,RM_8,comp_3180,comp_4244,0,56,1093952.516
+cust_2519,None,RM_9,comp_7706,comp_7706,12,56,212.688
+cust_2611,None,RM_12,comp_5983,comp_5983,12,56,4202.807
+cust_2926,None,RM_27,comp_4865,comp_1387,0,56,2176.023
+cust_3296,"Heavy Construction, Not Elsewhere Classified",RM_22,comp_3405,comp_7649,0,56,106435.429
+cust_4332,Confectionery Merchant Wholesalers,RM_9,comp_147,comp_147,12,56,372205.876
+cust_4681,None,RM_46,comp_2544,comp_2544,12,56,-30.619
+cust_5138,"Telephone Communications, except Radiotelephone",RM_19,comp_4342,comp_4342,0,56,579014.501
+cust_5205,None,RM_57,comp_5668,comp_5668,12,56,0
+cust_5323,Hotels and Motels,RM_38,comp_1520,comp_951,12,56,9542.18
+cust_5875,Elementary and Secondary Schools,RM_29,comp_680,comp_4806,8,49,94.33
+cust_6360,OpenEnd Investment Funds,RM_16,comp_2310,comp_863,0,39,-2734.519
+cust_6598,Land Subdivision,RM_31,comp_4749,comp_5493,0,33,27196.862
+cust_6940,Other Professional Equipment and Supplies Merchant Wholesalers,RM_53,comp_1008,comp_4104,0,26,2396.481
+cust_7266,None,RM_68,comp_7143,comp_1895,0,10,8577.116
+cust_7338,"Heavy Construction, Not Elsewhere Classified",RM_15,comp_7576,comp_575,0,19,14622195.18
+cust_7422,Management Consulting Services,RM_3,comp_1596,comp_1596,12,18,0
+cust_7482,None,RM_69,comp_1789,comp_1789,0,16,22331.958
+cust_7540,None,RM_38,comp_5675,comp_4568,0,15,228280.477
+cust_7825,None,RM_19,comp_1537,comp_1537,1,10,35198.82
+cust_7884,None,RM_86,comp_1476,comp_1476,0,5,76144.683
